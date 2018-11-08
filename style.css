@@ -1,0 +1,35 @@
+h1 {
+    font-family: sans-serif;
+}
+
+input {
+    padding-left: 15px;
+}
+
+body {
+    background-color: #fbfbfb;
+    padding-left: 15px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    font-family: sans-serif;
+    line-height: 2em;
+}
+
+li:hover {
+    background-color: yellow;
+}
+
+.strike {
+    text-decoration-line: line-through;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: yellow;
+
+}
